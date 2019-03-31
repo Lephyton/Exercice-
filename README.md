@@ -1,2 +1,1 @@
-# Exercice-
-maitrise de git et github  
+xercice-
